@@ -1,0 +1,2 @@
+# smart_house_transient_face_detector_by_ML
+With the help of machine learning and opencv, the cctv will take the people who are visited or come to someone house using their cctv where the system will save the pictures of the transient face as well as the date and time . It helps the owner to check whether any person visited and what time. It takes less space compared to the cctv and the user can easily check all the people who visited their house for security.
